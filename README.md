@@ -89,7 +89,7 @@ In addition to SQL-based insights, this project includes a comprehensive spatial
    - **Convex Hull Boundaries for High-Demand Stations**: Draws convex hull boundaries around the top 5 start stations (in green) and top 5 end stations (in red), visually distinguishing high-demand areas.
    - **Heat Map of Trip Density**: Displays trip density across NYC, with brighter colors representing zones of higher trip activity, offering a clear picture of spatial demand distribution.
 
-  ![Map](imgs/map.png)
+  ![Map](imgs/maps.png)
 
 
 ### 4. Spatial Data Analysis and Insights
