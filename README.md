@@ -2,6 +2,12 @@
 
 This project performs a comprehensive analysis of New York City’s Citi Bike data for 2023, leveraging **Apache Hadoop** and **SparkSQL** for big data processing, **Pandas** and **GeoPandas** for data manipulation, and **Folium** for geospatial visualization. This project demonstrates proficiency in handling large datasets, performing complex SQL queries, and creating insightful spatial and statistical visualizations.
 
+
+Note: 
+To View the maps please use this link to view the notebook: 
+https://nbviewer.org/github/asing349/Citi-Bike-NYC-Spatial-Data-Analysis-using-Hadoop-SQL-SparkSQL-and-GeoPandas/blob/main/Citi%20Bike%20NYC%20Data%20Analysis.ipynb
+
+
 ---
 
 ## Tech Stack
