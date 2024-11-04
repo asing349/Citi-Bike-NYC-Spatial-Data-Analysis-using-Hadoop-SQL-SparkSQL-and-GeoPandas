@@ -1,4 +1,4 @@
-# Citi Bike NYC Data Analysis 
+# Citi Bike NYC Spatial Data Analysis using Hadoop, SQL, SparkSQL and GeoPandas
 
 This project performs a comprehensive analysis of New York City’s Citi Bike data for 2023, leveraging **Apache Hadoop** and **SparkSQL** for big data processing, **Pandas** and **GeoPandas** for data manipulation, and **Folium** for geospatial visualization. This project demonstrates proficiency in handling large datasets, performing complex SQL queries, and creating insightful spatial and statistical visualizations.
 
@@ -9,7 +9,7 @@ This project performs a comprehensive analysis of New York City’s Citi Bike da
 - **Apache Hadoop (HDFS)**: Scalable and reliable storage for the Citi Bike dataset, allowing efficient access to large data volumes.
 - **Apache Spark**: Provides a distributed computing environment for executing SQL queries on large datasets.
 - **SparkSQL**: Enables complex SQL querying, allowing deep analysis of the dataset.
-- **Pandas**: Used for data manipulation after converting from Spark DataFrames, providing easier integration with Python visualization libraries.
+- **Python and Pandas**: Used for data manipulation after converting from Spark DataFrames, providing easier integration with Python visualization libraries.
 - **GeoPandas**: Extends Pandas to work with geospatial data, enabling spatial analysis and creating geometric boundaries.
 - **Folium**: For mapping and visualizing geospatial data, including heatmaps and point-based visualizations for high-demand stations.
 - **Matplotlib & Seaborn**: Used for general data visualization, including bar plots, column plots, and line charts.
